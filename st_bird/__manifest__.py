@@ -1,0 +1,18 @@
+{
+    'name': 'ST Bird',
+    'version': '1.0',
+    'category': 'Accounting',
+    'summary': 'The base folder for the birds',
+    'description': "A dummy module that is used as a basis for every bird",
+    'website': '',
+    'depends': [],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'assets': {{}},
+    'price': 40.00,
+    'currency': 'EUR',
+}

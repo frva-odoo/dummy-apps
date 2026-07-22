@@ -1,0 +1,17 @@
+{
+    'name': 'Salmon',
+    'version': '1.0',
+    'category': 'Accounting',
+    'summary': 'Everything you need as a salmon',
+    'description': "Salmon",
+    'website': '',
+    'depends': ['st_fish'],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 0.00,
+    'currency': 'EUR',
+}

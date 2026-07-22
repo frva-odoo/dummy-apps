@@ -1,9 +1,9 @@
 {
-    'name': 'Bird',
+    'name': 'Insect',
     'version': '1.0',
     'category': 'Accounting',
-    'summary': 'The base folder for the birds',
-    'description': "A dummy module that is used as a basis for every bird",
+    'summary': 'The base folder for the insects',
+    'description': "A dummy module that is used as a basis for every insect",
     'website': '',
     'depends': [],
     'data': [],
@@ -12,6 +12,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
-    'price': 40.00,
+    'price': 0.00,
     'currency': 'EUR',
 }

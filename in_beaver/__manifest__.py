@@ -1,0 +1,17 @@
+{
+    'name': 'Beaver',
+    'version': '1.0',
+    'category': 'Construction',
+    'summary': 'The perfect module for every beaver eager to build',
+    'description': "A dummy module to represent the beavers",
+    'website': '',
+    'depends': [],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 20.00,
+    'currency': 'EUR',
+}

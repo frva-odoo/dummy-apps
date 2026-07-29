@@ -13,5 +13,5 @@
     'application': True,
     'price': 50.00,
     'currency': 'EUR',
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
 }

@@ -13,4 +13,5 @@
     'application': True,
     'price': 20.00,
     'currency': 'EUR',
+    'license': 'OPL-1',
 }

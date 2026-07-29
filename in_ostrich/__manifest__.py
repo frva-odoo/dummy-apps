@@ -1,0 +1,18 @@
+{
+    'name': 'Ostrich',
+    'version': '1.0',
+    'category': 'Health and Fitness',
+    'summary': 'The perfect module for every ostrich',
+    'description': "A dummy module to represent the Ostrich",
+    'website': '',
+    'depends': ['st_bird'],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 25.00,
+    'currency': 'EUR',
+    'license': 'OEEL-1',
+}

@@ -1,0 +1,18 @@
+{
+    'name': 'Duck',
+    'version': '1.0',
+    'category': 'Hospitality',
+    'summary': 'The perfect module for every duck',
+    'description': "A dummy module to represent the Ducks",
+    'website': '',
+    'depends': ['st_bird'],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 10.00,
+    'currency': 'EUR',
+    'license': 'OEEL-1',
+}

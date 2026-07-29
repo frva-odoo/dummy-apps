@@ -1,0 +1,18 @@
+{
+    'name': 'Owl',
+    'version': '1.0',
+    'category': 'Supply Chain',
+    'summary': 'The perfect module for every owl',
+    'description': "A dummy module to represent the Owls",
+    'website': '',
+    'depends': ['st_bird'],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 35.00,
+    'currency': 'EUR',
+    'license': 'OEEL-1',
+}

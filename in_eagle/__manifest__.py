@@ -1,0 +1,18 @@
+{
+    'name': 'Eagle',
+    'version': '1.0',
+    'category': 'Supply Chain',
+    'summary': 'The perfect module for every eagle',
+    'description': "A dummy module to represent the Eagles",
+    'website': '',
+    'depends': ['st_bird'],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 40.00,
+    'currency': 'EUR',
+    'license': 'OEEL-1',
+}

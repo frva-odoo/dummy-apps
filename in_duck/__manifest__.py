@@ -5,7 +5,7 @@
     'summary': 'The perfect module for every duck',
     'description': "A dummy module to represent the Ducks",
     'website': '',
-    'depends': ['st_bird'],
+    'depends': ['st_bird', 'st_omnivorous'],
     'data': [],
     'demo': [],
     'test': [],

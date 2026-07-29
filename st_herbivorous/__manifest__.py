@@ -1,0 +1,18 @@
+{
+    'name': 'Herbivorous',
+    'version': '1.0',
+    'category': 'Human Resources',
+    'summary': 'The base module for every herbivorous animal',
+    'description': "All herbivorous animals should have this module !",
+    'website': '',
+    'depends': [],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 0.00,
+    'currency': 'EUR',
+    'license': 'LGPL-3',
+}

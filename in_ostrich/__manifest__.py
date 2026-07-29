@@ -5,7 +5,7 @@
     'summary': 'The perfect module for every ostrich',
     'description': "A dummy module to represent the Ostrich",
     'website': '',
-    'depends': ['st_bird'],
+    'depends': ['st_bird', 'st_herbivorous'],
     'data': [],
     'demo': [],
     'test': [],

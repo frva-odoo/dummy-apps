@@ -1,0 +1,18 @@
+{
+    'name': 'Carnivorous',
+    'version': '1.0',
+    'category': 'Human Resources',
+    'summary': 'The base module for every carnivorous animal',
+    'description': "All carnivorous animals should have this module !",
+    'website': '',
+    'depends': [],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 0.00,
+    'currency': 'EUR',
+    'license': 'LGPL-3',
+}

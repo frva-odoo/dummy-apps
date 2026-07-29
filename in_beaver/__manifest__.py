@@ -5,7 +5,7 @@
     'summary': 'The perfect module for every beaver eager to build',
     'description': "A dummy module to represent the beavers",
     'website': '',
-    'depends': [],
+    'depends': ['st_herbivorous'],
     'data': [],
     'demo': [],
     'test': [],

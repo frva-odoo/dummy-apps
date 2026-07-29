@@ -5,7 +5,7 @@
     'summary': 'The perfect module for every crow',
     'description': "A dummy module to represent the Crows",
     'website': '',
-    'depends': ['st_bird'],
+    'depends': ['st_bird', 'st_herbivorous'],
     'data': [],
     'demo': [],
     'test': [],

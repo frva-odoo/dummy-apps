@@ -3,7 +3,6 @@
     'version': '1.0',
     'category': 'Accounting',
     'summary': 'The base folder for the insects',
-    'description': "A dummy module that is used as a basis for every insect",
     'website': '',
     'depends': [],
     'data': [],

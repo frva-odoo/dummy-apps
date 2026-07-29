@@ -3,7 +3,6 @@
     'version': '1.0',
     'category': 'Supply Chain',
     'summary': 'The perfect module for every owl',
-    'description': "A dummy module to represent the Owls",
     'website': '',
     'depends': ['st_bird', 'st_carnivorous'],
     'data': [],

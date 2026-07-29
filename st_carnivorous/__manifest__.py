@@ -3,7 +3,6 @@
     'version': '1.0',
     'category': 'Human Resources',
     'summary': 'The base module for every carnivorous animal',
-    'description': "All carnivorous animals should have this module !",
     'website': '',
     'depends': [],
     'data': [],

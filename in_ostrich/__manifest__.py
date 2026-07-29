@@ -3,7 +3,6 @@
     'version': '1.0',
     'category': 'Health and Fitness',
     'summary': 'The perfect module for every ostrich',
-    'description': "A dummy module to represent the Ostrich",
     'website': '',
     'depends': ['st_bird', 'st_herbivorous'],
     'data': [],

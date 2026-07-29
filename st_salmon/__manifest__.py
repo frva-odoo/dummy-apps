@@ -3,7 +3,6 @@
     'version': '1.0',
     'category': 'Accounting',
     'summary': 'Everything you need as a salmon',
-    'description': "Salmon",
     'website': '',
     'depends': ['st_fish'],
     'data': [],

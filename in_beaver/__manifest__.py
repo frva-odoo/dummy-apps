@@ -3,7 +3,6 @@
     'version': '1.0',
     'category': 'Construction',
     'summary': 'The perfect module for every beaver eager to build',
-    'description': "A dummy module to represent the beavers",
     'website': '',
     'depends': ['st_herbivorous'],
     'data': [],

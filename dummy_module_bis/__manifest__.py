@@ -1,0 +1,17 @@
+{
+    'name': 'Dummy Module Bis',
+    'version': '1.0',
+    'category': 'Sales',
+    'summary': 'The perfect dummy module',
+    'website': '',
+    'depends': [],
+    'data': [],
+    'demo': [],
+    'test': [],
+    'installable': True,
+    'auto_install': False,
+    'application': True,
+    'price': 120.00,
+    'currency': 'EUR',
+    'license': 'OPL-1',
+}

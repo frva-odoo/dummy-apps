@@ -1,9 +1,10 @@
 {
-    'name': 'Dummy Beta',
+    'name': 'Property Developer',
     'version': '1.0',
     'category': 'Sales',
     'summary': 'The perfect dummy module',
     'website': '',
+    'images': ['images/main.png'],
     'depends': [],
     'data': [],
     'demo': [],

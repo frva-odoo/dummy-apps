@@ -1,5 +1,5 @@
 {
-    'name': 'Property Developer',
+    'name': 'Dummy Beta',
     'version': '1.0',
     'category': 'Sales',
     'summary': 'The perfect dummy module',

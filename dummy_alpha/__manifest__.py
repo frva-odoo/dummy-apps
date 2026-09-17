@@ -1,5 +1,5 @@
 {
-    'name': 'General Contractor',
+    'name': 'Dummy Alpha',
     'version': '1.0',
     'category': 'Sales',
     'summary': 'The perfect dummy module',

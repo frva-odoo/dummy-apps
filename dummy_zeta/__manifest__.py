@@ -1,5 +1,5 @@
 {
-    'name': 'Dummy Zeta',
+    'name': 'Hotel Management',
     'version': '1.0',
     'category': 'Sales',
     'summary': 'The perfect dummy module',
